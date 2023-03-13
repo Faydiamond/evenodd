@@ -8,5 +8,7 @@ func EvenOdd(number1 int) string {
 	} else {
 		result = " El numero es impar"
 	}
+
 	return result
+
 }
